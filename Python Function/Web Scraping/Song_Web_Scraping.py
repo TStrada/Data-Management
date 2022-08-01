@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
+## Import libraries
 from selenium import webdriver
 import pandas as pd
 import numpy as np
@@ -12,9 +10,7 @@ import os
 from selenium.common.exceptions import (NoSuchElementException,ElementClickInterceptedException,ElementNotInteractableException)
 
 
-# In[2]:
-
-
+## Set Chrome driver and open it at 'songsterr.com'
 Path = 'C:\Program Files (x86)\chromedriver.exe'
 
 driver = webdriver.Chrome(Path)
