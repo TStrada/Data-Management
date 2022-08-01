@@ -10,15 +10,28 @@ import os
 from selenium.common.exceptions import (NoSuchElementException,ElementClickInterceptedException,ElementNotInteractableException)
 
 
-## Set Chrome driver and open it at 'songsterr.com'
-Path = 'C:\Program Files (x86)\chromedriver.exe'
+import requests
+from bs4 import BeautifulSoup
 
-driver = webdriver.Chrome(Path)
-driver.get('https://www.songsterr.com')
+URL = "https://www.songsterr.com"
+page = requests.get(URL)
 
-## Avoid coockies istance
-try:    
-    driver.find_element_by_xpath('//*[@id="accept"]').click()
-except :#(ElementClickInterceptedException,ElementNotInteractableException):
-    print("element not interactable or Click intercepted")
+soup = BeautifulSoup(page.content, "html.parser")
+results = soup.find(id="header")
+# print(results.prettify())
+
+Band_Song = results.find_all("div", class_="C612su")
+# for job_element in job_elements:
+#     print(job_element.text, end="\n"*2)
+    
+player_style = results.find_all("div", class_="C61a4")
+# # for job_element in job_elements:
+# #     print(job_element.text, end="\n"*2)
+
+track_difficulty = soup.find(id="track-difficulty")
+track_difficulty
+# difficulty = track_difficulty.find_all('div', class_ = 'C61331')
+# # for job_element in difficulty:
+# #     print(job_element.text, end="\n"*2)
+# difficulty
 
