@@ -1,0 +1,372 @@
+,Band,Song,Player,Technique,Difficulty,Score
+0,The Beatles,Blackbird,Paul McCartney,"['Guitar', 'Acoustic Guitar (nylon)']",Intermediate,3/8
+1,Isaac Albéniz,Asturias (Leyenda),Ýz 1,['Acoustic Guitar (nylon)'],Intermediate,5/8
+2,AC/DC,Back In Black,Angus Young (Lead),['Distortion Guitar'],Intermediate,3/8
+3,Pachelbel,Canon in D Major,,['Track: Acoustic Guitar (nylon)'],Intermediate,4/8
+4,Led Zeppelin,"Babe, I'm Gonna Leave You",Jimmy Page,['Acoustic Guitar (steel)'],Beginner,2/8
+5,Jimi Hendrix,Little Wing,Jimi Hendrix,['Electric Guitar (jazz) 1'],Intermediate,5/8
+6,Pink Floyd,Shine On You Crazy Diamond (Parts I - IX),David Gilmour,"['Lap Steel Harmony', 'Overdriven Guitar']",Beginner,2/8
+7,Kansas,Dust In The Wind,Guitar 1,['Acoustic Guitar (nylon)'],Intermediate,3/8
+8,Francisco Tarrega,Capricho Arabe,Serenata para Guitarra,['Acoustic Guitar (nylon)'],Intermediate,5/8
+9,Pachelbel,Canon In C,,['Track: Acoustic Guitar (nylon)'],Beginner,1/8
+10,Frank Sinatra,Fly Me To The Moon (Fingerstyle),Nylon Guitar,['Acoustic Guitar (nylon)'],Intermediate,3/8
+11,Marilyn Manson,Sweet Dreams,Daisy Berkowitz,"['Lead Guitar', 'Distortion Guitar']",Intermediate,4/8
+12,Van Halen,Panama,Edward Van Halen,['Distortion Guitar'],Intermediate,4/8
+13,Johnny Cash,Hurt,Acoustic Guitar (steel),[],Beginner,2/8
+14,Metallica,Nothing Else Matters (Acoustic),Guitar 1,['Acoustic Guitar (steel)'],Intermediate,5/8
+15,Kaare Norge,Nocturne Op. 9 No. 2 (Frederic Chopin),Classical Guitar,['Acoustic Guitar (nylon)'],Intermediate,5/8
+16,Dire Straits,Sultans Of Swing,Mark Knopfler,"['Lead Guitar', 'Electric Guitar (clean)']",Intermediate,3/8
+17,Papa Roach,Last Resort,Jerry Horton,['Distortion Guitar'],Intermediate,4/8
+18,Metallica,Orion,Kirk Hammett,"['Lead Guitar', 'Distortion Guitar']",Intermediate,3/8
+19,Slash,Anastasia,Slash,"['Lead Guitar', 'Distortion Guitar']",Intermediate,4/8
+20,Red Hot Chili Peppers,Scar Tissue,John Frusciante (Main),['Electric Guitar (clean)'],Intermediate,3/8
+21,Linkin Park,Numb (Fingerstyle),Nylon Guitar,['Acoustic Guitar (nylon)'],Beginner,2/8
+22,Lynyrd Skynyrd,Sweet Home Alabama,Ed King ,['Electric Guitar (clean)'],Beginner,2/8
+23,Slash,The Godfather Theme,SLASH,['Distortion Guitar'],Intermediate,4/8
+24,Ozzy Osbourne,Crazy Train,Randy Rhoads (Lead Guitar),['Distortion Guitar'],Intermediate,5/8
+25,Yiruma-Shunga Jung Fingerstyle,River flows in you-Yiruma (shunga jung),Track 1,['Acoustic Guitar (nylon)'],Intermediate,3/8
+26,Megadeth,Hangar 18,Dave Mustaine,['Distortion Guitar'],Intermediate,5/8
+27,Van Halen,Eruption,Eddie Van Halen,['Distortion Guitar'],Advanced,7/8
+28,Led Zeppelin,Stairway To Heaven (Guitar Solo),Jimmy Page (Solo),['Overdriven Guitar'],Intermediate,5/8
+29,Theme Songs,Pirates Of The Caribbean,Guitar 1,['Acoustic Guitar (steel)'],Beginner,2/8
+30,Black Sabbath,Iron Man,Tony Iommi,"['Guitar', 'Distortion Guitar']",Intermediate,3/8
+31,Dick Dale,Misirlou,Guitar 1,['Electric Guitar (clean)'],Intermediate,4/8
+32,Ed Sheeran,I See Fire (Fingerstyle Cover By Gp),Nylon Guitar,['Acoustic Guitar (steel)'],Intermediate,3/8
+33,Megadeth,Symphony Of Destruction,Marty Friedman,['Distortion Guitar'],Intermediate,3/8
+34,Ludwig Van Beethoven,Moonlight Sonata (Acoustic Version),Acoustic Guitar (nylon),[],Intermediate,4/8
+35,Guns N' Roses,Don't Cry,Guitar 1 (Slash),['Distortion Guitar'],Intermediate,3/8
+36,Oasis,Wonderwall Bass,Noel Gallagher,"['Bass', 'Electric Bass (pick)']",,
+37,AC/DC,You Shook Me All Night Long,Angus Young,['Distortion Guitar'],Intermediate,3/8
+38,Mason Williams,Classical Gas,Mason Williams,['Acoustic Guitar (steel)'],Intermediate,3/8
+39,JerryC,Canon Rock,Lead,['Distortion Guitar'],Intermediate,5/8
+40,Muse,Psycho,Distortion Guitar,"['Matt Bellamy', 'Overdriven Guitar']",Intermediate,3/8
+41,Megadeth,Holy Wars... The Punishment Due,Dave Mustaine,['Distortion Guitar'],Intermediate,5/8
+42,Megadeth,Tornado Of Souls,Marty Friedman,['Distortion Guitar'],Intermediate,4/8
+43,Slayer,Raining Blood,Kerry King,['Distortion Guitar'],Intermediate,5/8
+44,Slayer,Angel Of Death,Jeff Hanneman,['Distortion Guitar'],Advanced,6/8
+45,Slipknot,Psychosocial,Mick T.,"['Guitar', 'Distortion Guitar']",Intermediate,3/8
+46,Blind Guardian,The Bards Song,Acoustic 1,['Acoustic Guitar (steel)'],Beginner,2/8
+47,Red Hot Chili Peppers,Can't Stop,John Frusciante,['Overdriven Guitar'],Intermediate,3/8
+48,Gary Moore,The Loner,Lead,['Distortion Guitar'],Intermediate,3/8
+49,Sungha Jung,Howls Moving Castle,Track 1,['Acoustic Guitar (steel)'],Beginner,2/8
+50,Children Of Bodom,Are You Dead Yet?,Alexi Laiho,['Distortion Guitar'],Intermediate,3/8
+51,Estas Tonne,The Song Of The Golden Dragon,Estas Tonné,['Acoustic Guitar (nylon)'],Intermediate,5/8
+52,AC/DC,Hells Bells,Angus Young,['Distortion Guitar'],Intermediate,4/8
+53,Mayhem,Freezing Moon,Euronymous,['Distortion Guitar'],Intermediate,3/8
+54,Foo Fighters,Everlong,Dave Grohl (Rhythm Guitar),['Distortion Guitar'],Intermediate,3/8
+55,Guns N' Roses,November Rain,Slash (Lead),['Distortion Guitar'],Intermediate,3/8
+56,Guns N' Roses,Paradise City,Slash,"['Lead', 'Distortion Guitar']",Intermediate,5/8
+57,Avenged Sevenfold,Buried Alive,Clean Guitar (Synyster Gates),['Electric Guitar (clean)'],Intermediate,4/8
+58,Metallica,Ride The Lightning,Kirk Hammett,"['Lead', 'Distortion Guitar']",Intermediate,3/8
+59,Alan Walker,Faded Fingerstyle,Steel Guitar,['Acoustic Guitar (steel)'],Beginner,2/8
+60,Johann Sebastian Bach,Bouree,Acoustic Guitar (steel),[],Intermediate,4/8
+61,Король и Шут,Лесник,Solo Guitar,['Distortion Guitar'],Intermediate,3/8
+62,As I Lay Dying,Through Struggle,Samuel Nicholas Keali'iokalani Hipa,['Distortion Guitar'],Intermediate,3/8
+63,Lynyrd Skynyrd,Free Bird,Allen Collins (Lead Guitar-Right Stereo),['Distortion Guitar'],Advanced,6/8
+64,Judas Priest,Breaking The Law,Glenn Tipton,['Distortion Guitar'],Intermediate,3/8
+65,Ludwig Van Beethoven,Fur Elise Drum,Guitar,['Drums'],,
+66,Кино,Спокойная ночь,Electric Guitar (clean),[],Intermediate,3/8
+67,Gojira,Silvera,Joe Duplantier (Guitar),['Distortion Guitar'],Intermediate,4/8
+68,Bullet For My Valentine,Waking The Demon,Matt Tuck,['Distortion Guitar'],Intermediate,4/8
+69,Joe Hisaishi,Spirited Away Ost - One Summer's Day,Acoustic Guitar (nylon),[],Beginner,2/8
+70,Blue Oyster Cult,Don't Fear The Reaper,Guitar 1,['Electric Guitar (clean)'],Beginner,2/8
+71,Plain White T's,Hey There Delilah,Acoustic Guitar (steel),[],Beginner,2/8
+72,Led Zeppelin,Whole Lotta Love,Jimmy Page Guitar 1 (w/dist) ,['Distortion Guitar'],Intermediate,3/8
+73,Eddie Van Der Meer,Naruto Ost - Sadness & Sorrow (Fingerstyle),Steel Guitar,['Acoustic Guitar (steel)'],Beginner,2/8
+74,Jimi Hendrix,Purple Haze,Jimi Hendrix,['Distortion Guitar'],Intermediate,3/8
+75,Joe Satriani,"Always With Me, Always With You",Melody,['Distortion Guitar'],Intermediate,5/8
+76,Lemon,Kenshi Yonezu 米津玄師,트랙 1,['Acoustic Guitar (nylon)'],Intermediate,3/8
+77,Yann Tiersen,La Valse D'amélie (Acoustic),Solo,['Acoustic Guitar (nylon)'],Intermediate,4/8
+78,Pantera,I'm Broken,Dimebag Darrell,['Distortion Guitar'],Intermediate,4/8
+79,Eddie Van Der Meer,Unravel - Tokyo Ghoul OP 1,Steel Guitar,['Acoustic Guitar (steel)'],Intermediate,4/8
+80,Killswitch Engage,My Curse,Adam D.,['Distortion Guitar'],Intermediate,4/8
+81,The Police,Every Breath You Take,Andy Summers,['Electric Guitar (clean)'],Beginner,2/8
+82,Gary Moore,Parisienne Walkways,Solo,['Distortion Guitar'],Intermediate,3/8
+83,Disturbed,Down With The Sickness,Dan Donegan,"['Guitar', 'Distortion Guitar']",Intermediate,3/8
+84,Firelake,Dirge For The Planet,Lead,['Acoustic Guitar (steel)'],Beginner,2/8
+85,Alice in Chains,Man In The Box,Jerry Cantrell,"['Lead Guitar', 'Distortion Guitar']",Beginner,2/8
+86,Jaskier,Toss A Coin To Your Witcher,Nylon Guitar,['Acoustic Guitar (nylon)'],Beginner,2/8
+87,Carlos Santana,Smooth,C. Santana,['Distortion Guitar'],Intermediate,3/8
+88,The White Stripes,Seven Nation Army Edit,Guitar 1,['Distortion Guitar'],Beginner,1/8
+89,Avenged Sevenfold,Nightmare,Lead,"['Synyster Gates', 'Distortion Guitar']",Intermediate,3/8
+90,Bon Jovi,You Give Love A Bad Name,Distortion Guitar,[],Beginner,2/8
+91,The Rolling Stones,Angie,Acoustic Guitar (steel),[],Beginner,2/8
+92,John Petrucci,Glasgow Kiss,Lead Guitar,['Distortion Guitar'],Advanced,6/8
+93,The Rolling Stones,Paint It Black,Keith Richards,"['Lead Guitar', 'Electric Guitar (clean)']",Intermediate,3/8
+94,Sting,Shape Of My Heart,Acoustic Guitar (nylon),[],Intermediate,3/8
+95,Megadeth,In My Darkest Hour,Dave Mustaine,"['Distorted Guitar', 'Distortion Guitar']",Intermediate,4/8
+96,Johann Sebastian Bach,Toccata And Fugue (Bwv 565),Guitare classique,['Acoustic Guitar (nylon)'],Intermediate,5/8
+97,Kotaro Oshio,Twilight,트랙 1,['Acoustic Guitar (nylon)'],Intermediate,3/8
+98,Neil Wicker,"Shallow (Lady Gaga, Bradley Cooper)",Acoustic Guitar (steel),[],Beginner,2/8
+99,Francisco Tarrega,Gran Vals,N.Guitar,['Acoustic Guitar (nylon)'],Intermediate,3/8
+100,Lamb Of God,Walk With Me In Hell,Mark Morton (Lead Guitar),['Distortion Guitar'],Intermediate,4/8
+101,Stevie Ray Vaughan,Pride And Joy,Stevie Ray Vaughan,['Overdriven Guitar'],Intermediate,4/8
+102,Megadeth,Peace Sells,Dave Mustaine,['Distortion Guitar'],Intermediate,3/8
+103,Death,Voice Of The Soul,Lead 1  Chuck Schuldiner,['Distortion Guitar'],Intermediate,4/8
+104,Kana-Boon,Silhouette,Lead Guitar,"['Hayato Koga', 'Distortion Guitar']",Intermediate,4/8
+105,Jeff Buckley,Hallelujah (Fingerstyle),Track 1,['Acoustic Guitar (nylon)'],Beginner,2/8
+106,Skillet,Monster,Ben Kasica,['Distortion Guitar'],Beginner,1/8
+107,Extreme,More Than Words,Trilha 1,['Acoustic Guitar (steel)'],Beginner,2/8
+108,Lil Peep,Star Shopping,Track 1,['Acoustic Guitar (steel)'],Intermediate,3/8
+109,Seether,Careless Whisper,Distortion Guitar,[],Beginner,2/8
+110,Van Halen,Hot For Teacher,Eddie Van Halen (Disortion),['Distortion Guitar'],Intermediate,5/8
+111,Aerosmith,Walk This Way,Rhythm Guitar 1,['Overdriven Guitar'],Intermediate,3/8
+112,Megadeth,Sweating Bullets,Distortion Guitar-Dave Mustaine,['Distortion Guitar'],Intermediate,4/8
+113,Steve Vai,Eugene's Trick Bag (Crossroads),Track 1,['Distortion Guitar'],Advanced,8/8
+114,Tool,The Pot,Guitar 1 w/ delay,['Distortion Guitar'],Intermediate,3/8
+115,Eric Clapton,Layla (Acoustic),Eric Clapton,['Acoustic Guitar (steel)'],Beginner,2/8
+116,Jason Becker,Altitudes,Jason Becker,"['Lead', 'Distortion Guitar']",Advanced,8/8
+117,Lamb Of God,Laid To Rest,Willie Adler,['Distortion Guitar'],Intermediate,5/8
+118,Duman,Bu Akşam,Kaan Tangöze,['Distortion Guitar'],Beginner,2/8
+119,Iron Maiden,The Trooper,Dave Murray,['Distortion Guitar'],Intermediate,4/8
+120,Death,Symbolic,Chuck Schuldiner,['Distortion Guitar'],Intermediate,3/8
+121,Cream,Crossroads,Clapton,['Overdriven Guitar'],Intermediate,4/8
+122,Lamb Of God,Redneck,Mark Morton,['Distortion Guitar'],Intermediate,4/8
+123,Mountain,Mississippi Queen,Gtr 2,['Distortion Guitar'],Intermediate,3/8
+124,Simon And Garfunkel,Sound Of Silence,Acoustic Guitar (steel),[],Beginner,2/8
+125,Ozzy Osbourne,Mr. Crowley,Randy Rhoads,"['Lead (R.I.P. 1982)', 'Distortion Guitar']",Intermediate,5/8
+126,Metallica,All Nightmare Long,James Hetfield,['Distortion Guitar'],Intermediate,4/8
+127,Iron Maiden,Hallowed Be Thy Name,Dave Murray,['Distortion Guitar'],Intermediate,3/8
+128,Metallica,Blackened,James Hetfield (Rhythm),['Distortion Guitar'],Intermediate,4/8
+129,Limp Bizkit,Behind Blue Eyes (The Who Cover),Wes Borland,"['Guitar', 'Acoustic Guitar (steel)']",Beginner,2/8
+130,Paul Gilbert,Technical Difficulties,Paul Gilbert,['Distortion Guitar'],Advanced,7/8
+131,Gary Moore,Still Got The Blues,Dist. Guitar Solo,['Distortion Guitar'],Intermediate,5/8
+132,Francisco Tarrega,Lágrima,Guitare,['Acoustic Guitar (nylon)'],Beginner,2/8
+133,Spanish Song,Spanish Romance,Track 1,['Acoustic Guitar (nylon)'],Beginner,2/8
+134,Metallica,Fade To Black,James Hetfield,"['Acoustic Guitar', 'Acoustic Guitar (steel)']",Intermediate,3/8
+135,Sublime,Santeria,Bradley Nowell (Guitar),['Electric Guitar (clean)'],Intermediate,3/8
+136,Opeth,Ghost Of Perdition,M. Akerfeldt,['Distortion Guitar'],Intermediate,4/8
+137,Led Zeppelin,Rock And Roll,Jimmy Page,"['Lead Guitar', 'Distortion Guitar']",Intermediate,3/8
+138,Jimi Hendrix,All Along The Watchtower,Guitar I,['Overdriven Guitar'],Intermediate,5/8
+139,Pearl Jam,Yellow Ledbetter,Mike McCREADY (Clean),['Electric Guitar (clean)'],Intermediate,4/8
+140,Dream Theater,Another Day,John Petrucci (Solos),['Distortion Guitar'],Intermediate,5/8
+141,Radiohead,Paranoid Android,Guitar 1,"['Acoustic (Thom Yorke)', 'Acoustic Guitar (steel)']",Beginner,2/8
+142,Tenacious D,The Metal,Guitar (John Konesky) [Distorted],['Distortion Guitar'],Intermediate,3/8
+143,System of a Down,Aerials,Daron Malakian,['Electric Guitar (clean)'],Intermediate,3/8
+144,Stevie Ray Vaughan,Little Wing,Overdub,['Electric Guitar (jazz)'],Intermediate,5/8
+145,Judas Priest,Painkiller,Glenn Tipton,['Distortion Guitar'],Intermediate,5/8
+146,Metallica,The Day That Never Comes,James Hetfield (Clean Rhythm),['Electric Guitar (clean)'],Beginner,2/8
+147,Metallica,Fuel,James Hetfield (Guitar),['Distortion Guitar'],Intermediate,3/8
+148,Yngwie Malmsteen,Arpeggios From Hell,Distortion Guitar,[],Advanced,6/8
+149,Alice Cooper,Poison,Lead guitar,['Distortion Guitar'],Beginner,2/8
+150,Dream Theater,Metropolis Part 1 The Miracle And The Sleeper,John Petrucci,"['Guitar 1', 'Distortion Guitar']",Intermediate,4/8
+151,Metallica,The Shortest Straw,James Hetfield (Distortion),['Distortion Guitar'],Intermediate,3/8
+152,Slayer,Seasons In The Abyss,Rhythm Guitar,"['Kerry King', 'Distortion Guitar']",Beginner,2/8
+153,Journey,Don't Stop Believin',Guitar (Neal Schon),['Distortion Guitar 1'],Intermediate,4/8
+154,Slipknot,Duality,Mick Thomson,['Distortion Guitar'],Intermediate,3/8
+155,Muse,Plug In Baby,Matt Bellamy (lead),['Distortion Guitar'],Intermediate,3/8
+156,Scorpions,Still Loving You,Rhythm,['Distortion Guitar'],Intermediate,3/8
+157,Guns N' Roses,Knockin' On Heaven's Door,Slash Leads,['Distortion Guitar'],Intermediate,3/8
+158,Soundgarden,Black Hole Sun,Kim Thayil,"['Guitar 1', 'Electric Guitar (clean)']",Beginner,2/8
+159,Buckethead,Soothsayer,Lead Guitar,['Distortion Guitar'],Intermediate,5/8
+160,Steve Vai,For The Love of God,Steve Vai,"['Lead Guitar', 'Distortion Guitar']",Intermediate,5/8
+161,Cannibal Corpse,Hammer Smashed Face,Electric Guitar,['Distortion Guitar 1'],Intermediate,4/8
+162,Joan Jett,I Love Rock N' Roll,Guitar 2,['Overdriven Guitar'],Intermediate,3/8
+163,Sungha Jung,(Your Name) Sparkle,к«иб 1,['Acoustic Guitar (steel)'],Intermediate,5/8
+164,Pixies,Where Is My Mind,Joey Santiago (Right Guitar),['Distortion Guitar'],Beginner,2/8
+165,Dream Theater,Pull Me Under,John Petrucci,"['Guitar 1', 'Distortion Guitar']",Intermediate,4/8
+166,KISS,I Was Made For Loving You,Paul Stanley,['Distortion Guitar'],Intermediate,3/8
+167,Metallica,Jump In The Fire,Kirk Hammett,['Distortion Guitar'],Intermediate,4/8
+168,Death,Spirit Crusher,Chuck Schuldiner ,['Distortion Guitar'],Intermediate,3/8
+169,Mac Demarco,Freaking Out The Neighbourhood,Lead Guitar,['Electric Guitar (clean)'],Beginner,2/8
+170,Cream,Sunshine Of Your Love,Eric Clapton,['Overdriven Guitar'],Intermediate,3/8
+171,Van Halen,Unchained,Eddie Van Halen,['Distortion Guitar'],Beginner,2/8
+172,Fairy Tail,Main Theme (Fingerstyle),Acoustic Guitar (nylon),[],Beginner,2/8
+173,Rage Against The Machine,Bombtrack,Tom Morello,"['Rhythm', 'Distortion Guitar']",Intermediate,3/8
+174,Jojo's Bizarre Adventure Golden Wind,Giorno's Theme,Guitar 1,['Overdriven Guitar'],Intermediate,3/8
+175,Yngwie Malmsteen,Far Beyond The Sun,Yngwie J. Malmsteen,"['Lead Guitar', 'Distortion Guitar']",Advanced,7/8
+176,B.B. King,The Thrill Is Gone,B.B. Lead,['Overdriven Guitar'],Intermediate,3/8
+177,3 Doors Down,Kryptonite,Guitar 1,['Electric Guitar (clean)'],Intermediate,3/8
+178,Rammstein,Du Hast,Paul Landers,['Distortion Guitar'],Intermediate,3/8
+179,Jim Croce,Time In A Bottle,Track 2,['Acoustic Guitar (steel)'],Beginner,1/8
+180,Pearl Jam,Even Flow,Mike McCready,"['Lead Guitar 1', 'Distortion Guitar']",Intermediate,3/8
+181,Pantera,Domination,Dime Lead Guitar,['Distortion Guitar'],Intermediate,5/8
+182,Sungha Jung,(Hisaishi Joe) Sen To Chihiro Spirited Away : Inochi No Namae,­µ­y 1,['Acoustic Guitar (steel)'],Intermediate,4/8
+183,Green Day,When I Come Around,Billie Joe Armstrong,['Distortion Guitar'],Intermediate,3/8
+184,Slipknot,Snuff,Mick Thomson (Acoustic),['Acoustic Guitar (steel)'],Beginner,2/8
+185,Amon Amarth,The Pursuit Of Vikings,Olavi Mikkonen,['Distortion Guitar'],Intermediate,3/8
+186,Nirvana,About A Girl,Kurt Cobain,['Electric Guitar (clean)'],Beginner,2/8
+187,Alice in Chains,Nutshell,Jerry Cantrell,"['Guitar 1', 'Acoustic Guitar (nylon)']",Beginner,2/8
+188,The Rolling Stones,(I Can't Get No) Satisfaction,Keith Richards,['Distortion Guitar'],Beginner,2/8
+189,Kansas,Carry On Wayward Son,Rich Williams,"['Rhythm Guitar (Right Spe', 'Distortion Guitar']",Intermediate,3/8
+190,Megadeth,Lucretia,Dave Mustaine,['Distortion Guitar'],Intermediate,4/8
+191,Alice in Chains,Them Bones,Jerry Cantrell (Lead),['Distortion Guitar'],Intermediate,3/8
+192,Stone Temple Pilots,Plush,Guitar 1,['Distortion Guitar'],Beginner,2/8
+193,Toto,Hold The Line,Steve Lukather,"['Rythm Guitar', 'Distortion Guitar']",Intermediate,3/8
+194,Led Zeppelin,Good Times Bad Times,Jimmy Page,['Distortion Guitar 2'],Intermediate,4/8
+195,Jimi Hendrix,Voodoo Child,Jimi Hendrix,['Distortion Guitar'],Intermediate,5/8
+196,Dire Straits,Brothers In Arms,Overdriven Guitar,[],Intermediate,3/8
+197,C418,Sweden,Nylon Guitar,['Acoustic Guitar (nylon)'],Intermediate,3/8
+198,Ghost B.C.,Square Hammer,Fire,"['Lead', 'Distortion Guitar']",Intermediate,3/8
+199,Red Hot Chili Peppers,Soul To Squeeze,John,['Electric Guitar (clean)'],Beginner,2/8
+200,Avenged Sevenfold,Bat Country,Synyster Gates (Lead),['Distortion Guitar'],Intermediate,4/8
+201,Metallica,For Whom The Bell Tolls,James Hetfield (Rhythm),['Distortion Guitar'],Beginner,2/8
+202,Led Zeppelin,Immigrant Song,Jimmy Page,"['Rhythm Guitar', 'Overdriven Guitar']",Intermediate,3/8
+203,KISS,Detroit Rock City,Guitar Right,['Distortion Guitar'],Intermediate,3/8
+204,Jimi Hendrix,Hey Joe,Guitar 1,['Electric Guitar (jazz)'],Intermediate,5/8
+205,Motley Crue,Kickstart My Heart,Mick Mars,['Distortion Guitar'],Intermediate,3/8
+206,Queen,Another One Bites the Dust,Guitar 3,['Electric Guitar (muted)'],Beginner,2/8
+207,Pantera,Walk,Dimebag  Darrell,['Distortion Guitar'],Intermediate,3/8
+208,Muse,Supermassive Black Hole,Matt Guitare,['Distortion Guitar'],Intermediate,3/8
+209,Metallica,The Unforgiven,Kirk Hammett (Lead),['Distortion Guitar'],Beginner,2/8
+210,Death,Crystal Mountain,Chuck Schuldiner ,['Distortion Guitar'],Intermediate,4/8
+211,Red Hot Chili Peppers,Otherside,John Frusciante (Main),['Electric Guitar (clean)'],Intermediate,3/8
+212,Baby Bash,Suga Suga,Track 1,['Electric Guitar (jazz)'],Intermediate,4/8
+213,Slipknot,Sulfur,Mick Thomson (Guitar Lead),['Distortion Guitar'],Intermediate,4/8
+214,Childish Gambino,Redbone,Electric Guitar (clean),[],Beginner,2/8
+215,Yann Tiersen,Comptine d'un autre éte (acoustic guitar),Acoustic Guitar (nylon),[],Intermediate,3/8
+216,Metallica,Creeping Death,James Hetfield (Rhythm),['Distortion Guitar'],Intermediate,4/8
+217,The Beatles,Yesterday,Paul McCartney,['Acoustic Guitar (steel)'],Beginner,2/8
+218,Bon Jovi,Wanted Dead Or Alive,Richie Sambora- Acoustic Lead,['Acoustic Guitar (steel)'],Intermediate,3/8
+219,The Oral Cigarettes,Kyouran Hey Kids!!,Distortion Guitar,[],Intermediate,5/8
+220,Sabaton,Bismarck,Tommy Johannson,['Distortion Guitar 1'],Intermediate,4/8
+221,Red Hot Chili Peppers,Dark Necessities,Josh,"['Solo', 'Distortion Guitar']",Beginner,2/8
+222,Europe,The Final Countdown,John Norum (Guitar),['Distortion Guitar'],Beginner,2/8
+223,Three Days Grace,I Hate Everything About You,Adam Gontier,['Acoustic Guitar (steel)'],Beginner,2/8
+224,Avenged Sevenfold,The Stage,Synyster Gates,['Distortion Guitar'],Advanced,6/8
+225,ZZ Top,Sharp Dressed Man,Billy F. Gibbons,"['Lead', 'Distortion Guitar']",Intermediate,3/8
+226,Led Zeppelin,Ramble On,Guitar 1 (acous.) Jimmy Page,['Acoustic Guitar (steel)'],Beginner,2/8
+227,Gustavo Santaolalla,The Last Of Us - Theme,Track 1,['Acoustic Guitar (nylon)'],Intermediate,4/8
+228,The Beatles,I Want You (She's So Heavy),Rhythm (Lennon)-Epiphone Casino,['Electric Guitar (clean)'],Intermediate,3/8
+229,Metallica,The Four Horsemen,K. Hammett (Lead),['Distortion Guitar'],Intermediate,4/8
+230,Green Day,Basket Case,Billie Joe Armstrong,['Distortion Guitar'],Intermediate,3/8
+231,The Beatles,Don't Let Me Down,George Harrison,['Electric Guitar (clean)'],Intermediate,3/8
+232,Judas Priest,Electric Eye,Glenn Tipton,['Distortion Guitar'],Intermediate,3/8
+233,Children Of Bodom,Downfall,Gtr III,['Distortion Guitar'],Intermediate,5/8
+234,Iron Maiden,Phantom Of The Opera,Dave Murray,['Distortion Guitar'],Intermediate,3/8
+235,Slipknot,Before I Forget,Mick Thomson,"['Rhythm/Lead', 'Distortion Guitar']",Intermediate,3/8
+236,Three Days Grace,Animal I Have Become,Barry Stock,"['Rhythm', 'Distortion Guitar']",Beginner,1/8
+237,Green Day,Holiday,Billie Joe Armstrong,"['Lead', 'Distortion Guitar']",Beginner,2/8
+238,Rammstein,Deutschland,Richard Z. Kruspe,['Distortion Guitar'],Intermediate,3/8
+239,Francisco Tarrega,Recuerdos De La Alhambra,Pista 1,['Acoustic Guitar (nylon)'],Intermediate,5/8
+240,Led Zeppelin,Kashmir,Jimmy Page,"['Rhythm Guitar', 'Overdriven Guitar']",Beginner,2/8
+241,The Police,Message In A Bottle,1st Guitar,['Electric Guitar (jazz)'],Intermediate,3/8
+242,Daria Semikina,Eric Clapton - Wonderful Tonight (Fingerstyle),Acoustic Guitar (nylon),[],Intermediate,3/8
+243,Avenged Sevenfold,Save Me,READ THIS ONE! (All in one but muted),['Distortion Guitar'],Intermediate,5/8
+244,Francisco Tarrega,Adelita,Acoustic Guitar (nylon),[],Intermediate,3/8
+245,Creedence Clearwater Revival,Fortunate Son,John Guitar,['Overdriven Guitar'],Beginner,2/8
+246,Thedooo,Ascend (Incomplete),Distortion Guitar 1,[],Advanced,6/8
+247,Smashing Pumpkins,1979,Billy Corgan,"['Rhythm Guitar', 'Electric Guitar (jazz)']",Beginner,2/8
+248,Hozier,Cherry Wine,Steel Guitar,['Acoustic Guitar (steel)'],Intermediate,3/8
+249,Pantera,Floods,Dimebag (Lead),['Distortion Guitar'],Intermediate,4/8
+250,Dream Theater,The Best Of Times,John Petrucci,['Distortion Guitar'],Intermediate,5/8
+251,Metallica,Disposable Heroes,James Hetfield (Rhythm Guitar),['Distortion Guitar'],Intermediate,4/8
+252,System of a Down,Protect the Land,Distortion Guitar (L),['Distortion Guitar'],Intermediate,3/8
+253,Arctic Monkeys,Do I Wanna Know,Jamie Cook,"['Lead Guitar', 'Distortion Guitar']",Intermediate,3/8
+254,Children Of Bodom,Kissing The Shadows,Alexi Laiho-lead,['Overdriven Guitar'],Advanced,8/8
+255,Ozzy Osbourne,Bark At The Moon,Jake Lee Rhythm,['Distortion Guitar'],Intermediate,4/8
+256,Red Hot Chili Peppers,I Could Have Lied,Acoustic Rhythm (John),['Acoustic Guitar (steel)'],Beginner,2/8
+257,Queen,Bohemian Rhapsody,Brian May I,['Distortion Guitar'],Intermediate,4/8
+258,Eric Clapton,Wonderful Tonight,ercci,['Electric Guitar (jazz)'],Intermediate,3/8
+259,Metallica,Am I Evil,James Hetfield,['Distortion Guitar'],Intermediate,3/8
+260,Black Sabbath,Into The Void,Tony Iommi Right,['Distortion Guitar'],Intermediate,3/8
+261,Avenged Sevenfold,So Far Away,Zacky Vengeance,['Acoustic Guitar (steel)'],Beginner,2/8
+262,Led Zeppelin,Heartbreaker,Guitar I,['Overdriven Guitar'],Intermediate,3/8
+263,Gojira,Stranded,Joe Duplantier,"['Guitar', 'Distortion Guitar']",Intermediate,3/8
+264,Black Sabbath,War Pigs,Tony Iommi,"['Guitar (Right)', 'Distortion Guitar']",Intermediate,3/8
+265,Weezer,Say It Ain't So,Lead Guitar 1 (Rivers Cuomo),['Electric Guitar (clean)'],Intermediate,3/8
+266,Oasis,Live Forever,Lead Guitar,['Distortion Guitar'],Intermediate,3/8
+267,Children Of Bodom,In Your Face,Alexi (Rythm Guitar),['Distortion Guitar'],Intermediate,3/8
+268,Iron Maiden,Wasted Years,Adrian Smith,['Distortion Guitar'],Intermediate,3/8
+269,Red Hot Chili Peppers,Dani California,Lead Guitar,['Distortion Guitar'],Intermediate,3/8
+270,Black Sabbath,Heaven And Hell,Tony Iommi I,['Distortion Guitar'],Intermediate,4/8
+271,Jeff Buckley,Hallelujah,Electric Guitar (clean),[],Intermediate,4/8
+272,Scorpions,Rock You Like A Hurricane,Lead,['Distortion Guitar'],Intermediate,5/8
+273,Avenged Sevenfold,Beast And The Harlot,Synyster Gates,['Distortion Guitar'],Intermediate,4/8
+274,Lynyrd Skynyrd,Simple Man,Gary Rossington,"['Clean Guitar 1', 'Electric Guitar (clean)']",Beginner,2/8
+275,Slipknot,Unsainted,Guitar 1 (Mick Thomson),['Distortion Guitar'],Beginner,2/8
+276,Ozzy Osbourne,No More Tears,Zakk Wylde,"['Solo', 'Distortion Guitar']",Intermediate,3/8
+277,The Eagles,Hotel California (Unplugged),Guitar 1,['Acoustic Guitar (nylon)'],Intermediate,4/8
+278,Guns N' Roses,Welcome To The Jungle,Guitar 1 (Slash),['Distortion Guitar'],Intermediate,4/8
+279,Sungha Jung,(Stevie Wonder) Isn't She Lovely,Steel Guitar,['Acoustic Guitar (steel)'],Intermediate,4/8
+280,Muse,Hysteria,Matt Bellamy,"['Main Guitar', 'Distortion Guitar']",Intermediate,3/8
+281,The Animals,The House Of The Rising Sun,Hilton Valentine,['Electric Guitar (clean)'],Intermediate,3/8
+282,My Chemical Romance,Welcome To The Black Parade,Ray Toro (Lead Guitar),['Distortion Guitar'],Intermediate,3/8
+283,AC/DC,T.N.T.,Malcolm Young,"['Rhythm', 'Distortion Guitar']",Intermediate,3/8
+284,Metallica,Battery,James Hetfield,"['Rhythm Guitar', 'Distortion Guitar']",Intermediate,3/8
+285,Ghost B.C.,Dance Macabre,A Nameless Ghoul Right,['Distortion Guitar'],Beginner,1/8
+286,Metallica,Leper Messiah,James Hetfield (Rhythm),['Distortion Guitar'],Intermediate,3/8
+287,Metallica,To Live Is To Die,Acoustic Guitar (nylon),[],Beginner,2/8
+288,Tame Impala,The Less I Know The Better,Bass Distortion,['Overdriven Guitar'],Beginner,2/8
+289,Iron Maiden,Powerslave,Dave Murray,['Distortion Guitar'],Intermediate,3/8
+290,Metallica,"Atlas, Rise!",James Hetfield (Rhythm Guitar),['Distortion Guitar'],Intermediate,3/8
+291,Metallica,Spit Out The Bone,J. Hetfield (Rhythm),['Distortion Guitar'],Intermediate,4/8
+292,Nirvana,The Man Who Sold The World,Guitar w/disto,"['Kurt Cobain', 'Distortion Guitar']",Beginner,2/8
+293,Alice in Chains,Rooster,Gtr.2 (Dist.),['Distortion Guitar'],Beginner,2/8
+294,Pantera,Cemetery Gates,Dimebag Darrell (Rhythm),['Distortion Guitar'],Intermediate,3/8
+295,Deep Purple,Black Night,Blackmore,['Overdriven Guitar'],Intermediate,3/8
+296,Metallica,Fight Fire With Fire,Kirk Hammett,['Distortion Guitar 1'],Intermediate,4/8
+297,Nirvana,Breed,Kurt Cobain (Guitar),['Distortion Guitar'],Intermediate,3/8
+298,Megadeth,Wake Up Dead,Dave Mustaine,['Distortion Guitar'],Intermediate,5/8
+299,Arctic Monkeys,Why'd You Only Call Me When You're High,Alex Turner (Guitar One),['Electric Guitar (clean)'],Beginner,1/8
+300,Linkin Park,Given Up,Brad Delson + Mike Shinoda,"['Distortion ', 'Distortion Guitar']",Beginner,2/8
+301,Megadeth,Angry Again,Dave Mustaine,['Distortion Guitar'],Beginner,2/8
+302,Smashing Pumpkins,Cherub Rock,James Iha,"['Lead Guitar', 'Distortion Guitar']",Beginner,2/8
+303,Burzum,Dunkelheit,Right Guitar,['Distortion Guitar'],Beginner,2/8
+304,Boston,More Than A Feeling,Tom Scholz (Acoustic),['Acoustic Guitar (steel)'],Beginner,2/8
+305,Bullet For My Valentine,Hand Of Blood,Matt,['Distortion Guitar'],Intermediate,3/8
+306,The Strokes,Reptilia,Nick Valensi,['Overdriven Guitar'],Intermediate,3/8
+307,Metallica,Eye Of The Beholder,James Hetfield (Rhythm Guitar),['Distortion Guitar'],Intermediate,3/8
+308,Whitesnake,Still Of The Night,John Sykes (Lead),['Distortion Guitar'],Intermediate,3/8
+309,AC/DC,Shoot To Thrill,Angus Young,['Distortion Guitar'],Beginner,2/8
+310,Pantera,5 Minutes Alone,Dime,"['Guitar', 'Distortion Guitar']",Intermediate,3/8
+311,Rush,Tom Sawyer,Lead Guitar-Lifeson,['Distortion Guitar'],Intermediate,3/8
+312,Rush,Yyz,Alex Lifeson,"['Lead Guitar', 'Distortion Guitar']",Advanced,6/8
+313,Metallica,Hit The Lights,James Hetfield (Rhythm),['Distortion Guitar'],Intermediate,4/8
+314,Led Zeppelin,Over The Hills And Far Away,Jimmy Page,"['Guitar 1', 'Acoustic Guitar (steel)']",Intermediate,3/8
+315,Metallica,The Thing That Should Not Be,James Hetfield (Rhythm),['Distortion Guitar'],Intermediate,3/8
+316,Heart,Barracuda,Lead Guitar,['Overdriven Guitar'],Intermediate,3/8
+317,Mastodon,Blood And Thunder,Guitar Lead,['Distortion Guitar'],Intermediate,4/8
+318,Queens Of The Stone Age,No One Knows,Josh Homme (Clean),['Electric Guitar (clean)'],Beginner,2/8
+319,Metallica,Moth Into Flame,Kirk Hammett (Lead),['Distortion Guitar'],Intermediate,3/8
+320,Bullet For My Valentine,Tears Don't Fall,Michael Paget,['Electric Guitar (clean)'],Intermediate,4/8
+321,K-On!!,Fuwa Fuwa Time,Guitar: Yui Hirasawa,['Distortion Guitar'],Beginner,2/8
+322,The Smiths,This Charming Man,Johnny Marr|Lead 1,['Electric Guitar (clean)'],Intermediate,3/8
+323,Jinjer,Pisces,Clean Guitar,['Electric Guitar (clean)'],Beginner,2/8
+324,Metallica,No Remorse,James Hetfield,['Distortion Guitar'],Intermediate,3/8
+325,Black Sabbath,N.I.B.,Guitarra,['Distortion Guitar'],Intermediate,3/8
+326,Nirvana,Drain You,Kurt Cobain,['Distortion Guitar'],Beginner,1/8
+327,Shingeki No Kyojin,Guren No Yumiya,Electric Guitar,['Distortion Guitar 1'],Beginner,2/8
+328,Megadeth,Conquer Or Die,Kiko Loureiro,['Acoustic Guitar (nylon)'],Intermediate,5/8
+329,Rammstein,"Links 2,3,4",Richard,['Distortion Guitar'],Beginner,2/8
+330,Ed Sheeran,Perfect (Fingerstyle),Steel Guitar,['Acoustic Guitar (steel)'],Intermediate,4/8
+331,Tool,Forty Six & 2,Electric Guitar,"['Adam Jones', 'Overdriven Guitar']",Intermediate,3/8
+332,Guns N' Roses,Patience,Slash,['Acoustic Guitar (steel)'],Intermediate,3/8
+333,Samurai (Cyberpunk 2077),Never Fade Away,Johny Silverhand,['Distortion Guitar'],Beginner,2/8
+334,Tool,Vicarious,Distortion Guitar,"['Adam Jones', 'Distortion Guitar']",Intermediate,3/8
+335,Children Of Bodom,Children Of Bodom,Alexi Laiho,['Distortion Guitar'],Intermediate,5/8
+336,Deep Purple,Burn,Rhythm Guitar (Blackmore),['Distortion Guitar'],Intermediate,3/8
+337,Bring Me The Horizon,Can You Feel My Heart,L,['Distortion Guitar'],Beginner,1/8
+338,Attack On Titan,Vogel Im Käfig (Acoustic),Melody,['Acoustic Guitar (steel)'],Beginner,2/8
+339,Black Sabbath,NIB,Tony Iommi,"['Guitar (Left)', 'Distortion Guitar']",Intermediate,3/8
+340,Fleetwood Mac,The Chain,Lindsey Buckingham,"['Guitar', 'Electric Guitar (clean)']",Intermediate,3/8
+341,ZZ Top,La Grange,Guitar 1,['Electric Guitar (jazz)'],Beginner,2/8
+342,Foo Fighters,The Pretender,Dave Grohl (Rhythm Guitar),['Distortion Guitar'],Beginner,2/8
+343,Vulfpeck,Dean Town,Guitar (Theo),['Electric Guitar (clean)'],Intermediate,3/8
+344,Dio,Holy Diver,Vivian Campbell,"['Rhythm Guitar (Left)', 'Distortion Guitar']",Beginner,2/8
+345,Metallica,"Damage, Inc",Kirk Hammett,['Distortion Guitar'],Intermediate,4/8
+346,Pink Floyd,Wish You Were Here,David Gilmour,"['12 String Effects', 'Acoustic Guitar (steel)']",Beginner,2/8
+347,Green Day,Boulevard Of Broken Dreams,Billie Joe Amrstrong,"['Rhythm 3', 'Acoustic Guitar (steel)']",Intermediate,3/8
+348,Metallica,The Unforgiven II,James Hetfield (Clean),['Electric Guitar (clean)'],Intermediate,3/8
+349,Pink Floyd,Another Brick In The Wall (Part 2),David Gilmour,"['Rhythm Guitar (Left)', 'Electric Guitar (clean)']",Beginner,2/8
+350,Death,Flesh And The Power It Holds,Chuck Schuldiner,['Distortion Guitar'],Intermediate,4/8
+351,Avenged Sevenfold,Hail To The King,Rhythm [Zacky Vengeance],['Distortion Guitar'],Intermediate,3/8
+352,Muse,Knights Of Cydonia,Lead,['Distortion Guitar'],Intermediate,3/8
+353,Franz Ferdinand,Take Me Out,Nick McCarthy,"['Rhythm Guitar', 'Overdriven Guitar']",Beginner,2/8
+354,Guns N' Roses,Nightrain,Guitar 1 (Slash),['Distortion Guitar'],Intermediate,4/8
+355,Megadeth,Trust,Dave Mustaine,['Distortion Guitar'],Beginner,2/8
+356,Metallica,Whiskey In The Jar,Lead Guitar 2,['Distortion Guitar'],Intermediate,3/8
+357,Cyberpunk 2077,Kerry's Song,Track 1,['Electric Guitar (jazz)'],Intermediate,3/8
+358,Deep Purple,Smoke On The Water,Ritchie Blackmore,"['Rhythm Guitar', 'Distortion Guitar']",Intermediate,3/8
+359,The Beatles,Come Together,George Harrison,"['Backing Guitar', 'Overdriven Guitar']",Beginner,2/8
+360,Arctic Monkeys,Fluorescent Adolescent,Jamie Cook,"['Lead Guitar', 'Overdriven Guitar']",Beginner,1/8
+361,Rage Against The Machine,Know Your Enemy,Guitare 2,['Overdriven Guitar'],Intermediate,3/8
+362,The White Stripes,Seven Nation Army,Jack White (Rhythm Guitar),['Distortion Guitar'],Beginner,2/8
+363,Iron Maiden,Aces High,Adrian Smith,['Distortion Guitar'],Intermediate,4/8
+364,All Time Low,"Dear Maria, Count Me In",Jack,['Distortion Guitar'],Beginner,2/8
+365,Joy Division,Disorder,Bernard Sumner,"['Guitar', 'Overdriven Guitar']",Beginner,2/8
+366,Metallica,The God That Failed,James Hetfield,"['Rhythm Guitar', 'Distortion Guitar']",Intermediate,3/8
+367,My Chemical Romance,Na Na Na,Ray Toro,['Distortion Guitar'],Beginner,2/8
+368,Oasis,Don't Look Back In Anger,Noel Gallagher,['Distortion Guitar'],Intermediate,3/8
+369,Samurai,Chippin'in,Rhythm,['Distortion Guitar'],Beginner,2/8
+370,Король и Шут,Дурак И Молния,Гитара Л,['Distortion Guitar'],Intermediate,3/8
