@@ -58,12 +58,9 @@
   \begin{@twocolumnfalse}
     \maketitle
     \begin{abstract}
-      \noindent{L'obiettivo principale del progetto è quello di valutare e selezionare il miglior modello predittivo relativamente alle stime delle vendite di alcuni settori, precisamente Pesca, Calcio e Casual, di un attività di e-commerce.}\\
-      Il periodo preso in considerazione va dal giorno 01-01-2014 al giorno 31-12-2021.\\
-      Per un attività commerciale presente sulla rete è di fondamentale importanza prevedere le vendite che saranno effettuate nei periodi successivi per ogni settore a disposizione, in modo tale da organizzare disponibilità di magazzino e di spedizione.\\
-      I dati sono stati modellati in funzione dell'obiettivo e aggregati secondo diverse granularità, ovvero con frequenza annuale, trimestrale, mensile e settimanale, in modo tale da valutare le performance dei modelli presi in considerazione.\\
-      Come sarà possibile verificare nel proseguio del report, la granularità più efficace, relativamente agli obiettivi preposti dal progetto, è risultata quella annuale.\\
-      Il progetto è stato effettuato prendendo in considerazione i tre settori con maggiore disponibilità effettiva di osservazioni, ma i modelli utilizzati possono essere applicati anche ad altri settori, per realizzare in questo modo una panoramica completo sull'intero e-commerce.
+      \noindent{L’obiettivo di questo progetto è quello di costruire un sistema di raccomandazione musicale per tutti coloro che vorrebbero imparare a suonare uno o più strumenti e per ‘band’ in cerca di nuovi brani da riprodurre.\\
+      Il sistema qui proposto permette di rintracciare le canzoni simili basandosi da un lato, su caratteristiche del brano nel suo complesso, dall’altro sulle peculiarità di ogni singolo strumento.\\
+      Vengono proposte in particolar modo due metriche: livello di difficoltà e rilevanza. L’architettura che garantisce il funzionamento del sistema di raccomandazione è di tipo ‘grafo’ ed è implementata su Neo4j.
     \end{abstract}
   \end{@twocolumnfalse}]
 
@@ -79,10 +76,12 @@
 %----------------------------------------------------------------------------------------
 
 \section{Introduzione}
-La realizzazione di questo progetto ha visto come obiettivo principale quello di testare, valutare e decretare il miglior modello predittivo al fine di stimare le vendite in euro realizzate dai vari settori all'interno di un e-commerce.\\
-Prima di tutto, i dati sono stati pre-processati e 'puliti', in modo tale da renderli efficaci e ottimali rispetto allo scopo del progetto. I modelli predittivi, infatti, richiedevano un certo tipo di modellazione dei dati in input per utilizzarli al proprio interno e produrre delle previsioni.\\
-Una volta effettuato il pre-processing dei dati, il focus è passato sul test dei vari modelli, ognuno con le diverse granularità scelte in fase di programmazione.\\
-Il periodo scelto per l'analisi parte dal giorno 01-01-2014 e si protrae fino al giorno 31-12-2021. La scelta di questo periodo non è da considerarsi casuale, in quanto racchiude anche il periodo relativo alla pandemia, periodo che ha visto moltissime persone rivolgersi all'utilizzo di e-commerce, vista l'impossibilità di recarsi in negozi fisici.
+Il progetto si divide in 4 parti: raccolta dati, analisi musicale, gestione dati e implementazione.\\
+Nella prima fase vengono raccolti dati riguardanti informazioni specifiche dei brani inclusi nella base musicale di riferimento (Songsterr e Famousbirthday), informazioni sulle caratteristiche delle canzoni nel complesso (Spotify) e raccolta delle relative tracce audio.\\
+Nella seconda fase si analizza ogni traccia audio con l’obiettivo di costruire due metriche per gli strumenti di batteria, basso e pianoforte.\\
+Le metriche che vengono costruite sono: livello di difficoltà e il livello di rilevanza all’interno della canzone.\\
+Le informazioni ottenute sono state processate al fine di rendere il dataset consistente e completo.\\
+Nell’ultima fase si è costruito un modello a grafo che permettesse di sfruttare le relazioni tra dati per suggerire le canzoni più simili tra di loro.
 
 \subsection{Punti Principali}
 \begin{itemize}
