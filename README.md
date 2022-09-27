@@ -2,7 +2,7 @@
   <a href="http://datascience.disco.unimib.it/it/"><img src ="https://github.com/TStrada/Web-marketing-project/blob/main/Images/DataScienceUnimib.png" width = "45%"></a>
 </p>
 <p align="center">
-  <img src="https://github.com/TStrada/Web-marketing-project/blob/main/Images/Loading.png" width="25%">
+  <img src="https://github.com/TStrada/Data-Management/blob/39df1ad03afa7845d1aee18b832b7405f528c6c2/Images/Music.jpg" width="25%">
 </p>
   <h6 align="center">a Data Management Project</h6>
 <p align="center">
@@ -14,15 +14,19 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-Summary description of the project
+This is a university project focused on acquisition and storing of data. In particular the aim is to develop a music reccomendation system for all users who want to learn an instrument.
+In the first section there are two functions for scraping informations from websites and one for taking songs informations from Spotify, using API.
+Then there is audio analysis of the songs for 3 instrument: bass, drums and piano. 
+In the third section there is an analysis concerning about the quality of dataset.
+Finally there is the building of reccomendation system based on Neo4j.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-Dataset used and preprocessing application
+You can find datasets used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br>. Audio file are not uploaded. 
 
 <a name="presentation"></a>
-## &#9741; &nbsp; Presentation
-You can find our presentation in the <a href="https://github.com/TStrada/Web-marketing-project/tree/main/Report">Slides</a> folder.<br>
+## &#9741; &nbsp; Presentation 
+You can find our presentation in the <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Report</a> folder.<br>
 
 
 <a name="aboutus"></a>
