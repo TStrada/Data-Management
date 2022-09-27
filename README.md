@@ -19,7 +19,7 @@ Finally there is the building of reccomendation system based on Neo4j.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-You can find datasets used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br>. Audio file are not uploaded. 
+You can find datasets used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br> Audio file are not uploaded. 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
