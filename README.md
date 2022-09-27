@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TStrada/Data-Management/blob/39df1ad03afa7845d1aee18b832b7405f528c6c2/Images/Music.jpg" width="75%">
+  <img src="https://github.com/TStrada/Data-Management/blob/39df1ad03afa7845d1aee18b832b7405f528c6c2/Images/Music.jpg" width="60%">
 </p>
   <h6 align="center">a Data Management Project</h6>
 <p align="center">
