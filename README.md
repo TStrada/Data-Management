@@ -11,7 +11,10 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-This is a university project focused on acquisition and storing of data. In particular, the aim is to develop a music recommendation system for all users who want to learn an instrument. In the first section, there are two functions for scraping information from websites and one for taking song information from Spotify, using API. Then there is an audio analysis for 3 instruments: bass, drums and piano. In the third section, there is an analysis concerning dataset quality. Finally, there is the building of recommendation system based on Neo4j.
+This is a university project focused on acquisition and storing of data. In particular, the aim is to develop a music recommendation system for all users who want to learn an instrument. 
+In the first section, there are two functions for scraping information from websites and one for taking song information from Spotify, using API.
+Then there is an audio analysis for 3 instruments: bass, drums and piano. 
+In the third section, there is an analysis concerning dataset quality. Finally, there is the building of recommendation system based on Neo4j.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
